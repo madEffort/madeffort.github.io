@@ -274,7 +274,11 @@ const FileExplorerApp = ({
                       key={index}
                       className="hover:bg-white hover:bg-opacity-10"
                       onClick={() => {
-                        window.open(`...`, "_blank", WIN_FEATURES);
+                        window.open(
+                          `https://drive.google.com/file/d/1CMIXo1HI6uorRwE8i8VjYstRySKKAlY5/view`,
+                          "_blank",
+                          WIN_FEATURES
+                        );
                       }}
                     >
                       <td className="pl-2">{file.name}</td>
