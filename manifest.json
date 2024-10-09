@@ -1,0 +1,27 @@
+{
+  "theme_color": "#000000",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "scope": "/",
+  "start_url": "/",
+  "name": "Hyunwoo Kim Desktop",
+  "short_name": "Hyunwoo Kim's Desktop",
+  "description": "Hyunwoo Kim's Desktop Windows 11 OS",
+  "icons": [
+    {
+      "src": "/icon-128x128.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-256x256.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
